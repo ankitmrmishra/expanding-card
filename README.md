@@ -6,5 +6,5 @@ this project is part of #50Days50Projects by Traversy Media
  - CSS
  - Vanilla JAVASCRIPT
 
-### [Live Site](https://www.ankitmrmishra.github.io/expanding-card)
+### [Live Site](https://ankitmrmishra.github.io/expanding-card)
 
